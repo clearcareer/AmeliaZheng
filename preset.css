@@ -1,0 +1,54 @@
+
+/* 
+ * Change your theme color from here. And always keep this "preset.css" after main "style.css"
+ * Call this CSS file in any homepage you want. By default this CSS called in "Particle Homepage" only.
+--------------------------------------------------------------------------------------------------------*/
+
+
+a,
+a.navbar-brand span,
+.social-link li a:hover,
+.thumb-wrapper .portfolio-icon-wrapper a,
+.footer-logo span {
+    color: #CA161D;
+}
+
+.btn-primary {
+    background-color: #CA161D;
+    border-color: #A01F24;
+}
+
+.btn-primary.focus, 
+.btn-primary:focus, 
+.btn-primary:hover, 
+.btn-primary.active.focus, 
+.btn-primary.active:focus, 
+.btn-primary.active:hover, 
+.btn-primary:active.focus, 
+.btn-primary:active:focus, 
+.btn-primary:active:hover {
+    background-color: #A01F24;
+    border-color: #A01F24;
+}
+
+.cta {
+    border: 1px solid #CA161D;
+}
+
+.progress-bar,
+ul#filter li.active,
+.testimonial-section,
+.latest-news-wrapper .post-wrapper:hover .entry-header,
+.thumb-wrapper .bg-overlay,
+.backToTop i {
+    background-color: #CA161D;
+}
+
+.backToTop i:hover {
+    background: #A01F24;
+}
+
+
+.tab-container {
+    background: url(assets/images/tab-red.png) no-repeat;
+}
