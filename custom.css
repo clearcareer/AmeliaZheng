@@ -28,3 +28,8 @@ a.navbar-brand {
 .footer-section .btn {
 	text-transform: uppercase;
 }
+
+.footer-section {
+    padding-bottom: 30px;
+}
+
